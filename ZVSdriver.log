@@ -1,0 +1,21 @@
+Circuit: * E:\Hanming\UPENN\Senior design\spice\ZVSdriver.asc
+
+.OP point found by inspection.
+
+Date: Sun Sep 29 22:59:15 2019
+Total elapsed time: 0.344 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 57556
+traniter = 57556
+tranpoints = 14427
+accept = 10267
+rejected = 4160
+matrix size = 15
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.22 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.33 KB object code size  0.1/0.1/[0.1]
+
